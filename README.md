@@ -1,5 +1,5 @@
 # hl-fun
-fun with the new HoloLens SDK since the real hololens is $3000 more than i can afford :D
+fun with the new HoloLens SDK (and simulator) since the real hololens is $3000 more than i can afford :D
 
 
 after playing with the emulator a bit, here's my notes:
@@ -30,3 +30,10 @@ walking and whatnot (movement):
  - ALT locks where you're looking at (so you can't move your head)
  - SHIFT plus a movement key (WASDQE) makes that movement faster
  - (other bits can be found on the hololens site linked above)
+
+### bsod's
+if you've ever wondered what a BSOD looks like on the hololens, here's a photo:
+![screenshot 80](https://cloud.githubusercontent.com/assets/6683648/14235022/54f9cb4e-f9c0-11e5-98f9-453bf54c5380.png)
+don't ask how i got one; i don't know either ;)
+
+the painting of the screen is very slow and done in blocks, so it seems to be CPU based? not sure really.
